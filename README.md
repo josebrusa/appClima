@@ -1,2 +1,3 @@
 # appClima
-curso Nodejs
+  
+  git clone and npm install
